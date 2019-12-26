@@ -1,0 +1,18 @@
+func GetUsers(ctx *fasthttp.RequestCtx) {
+
+	var users []models.User
+	db := db.GetDB()
+
+	if err := db.Order("id desc").Find(&users).Error; err != nil {
+
+		fmt.Println(err)
+	} else {
+		jsonValue, err := json.Marshal(users)
+		if err != nil {
+
+		}
+		LogController.Notice("Users Fetch")
+		ctx.Write([]byte(jsonValue))
+	}
+
+}
