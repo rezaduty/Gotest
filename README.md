@@ -23,7 +23,7 @@ A Simple Reservation and Tracking Web Service with Go and RESTFul Architecture
 
 # Stack
 
-<img src="" alt="Markdownify" width="200">
+<img src="https://github.com/rezaduty/Gotest/blob/master/tech.png" alt="Markdownify" width="200">
 
 # Statistics
 
