@@ -23,14 +23,14 @@ A Simple Reservation and Tracking Web Service with Go and RESTFul Architecture
 
 # Stack
 
-<img src="https://github.com/rezaduty/Gotest/blob/master/tech.png" alt="Markdownify" width="200">
+<img src="https://github.com/rezaduty/Gotest/blob/master/tech.png" alt="Markdownify" width="400">
 
 # Statistics
 
 
-<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/getBanks.png" alt="Markdownify" width="200">
-<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/getQueue.png" alt="Markdownify" width="200">
-<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/runQueue.png" alt="Markdownify" width="200">
+<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/getBanks.png" alt="Markdownify" width="400">
+<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/getQueue.png" alt="Markdownify" width="400">
+<img src="https://raw.githubusercontent.com/rezaduty/Gotest/master/runQueue.png" alt="Markdownify" width="400">
 
 # LICENSE
 
