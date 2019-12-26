@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://rezaduty.blog.ir/"><img src="https://raw.githubusercontent.com/rezaduty/Tahririye_man/master/web_hi_res_512.png" alt="Markdownify" width="200"></a>
+  <a href="http://rd313.ir/"><img src="https://raw.githubusercontent.com/rezaduty/Tahririye_man/master/web_hi_res_512.png" alt="Markdownify" width="200"></a>
 
 </h1>
 
